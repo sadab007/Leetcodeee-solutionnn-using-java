@@ -7,10 +7,7 @@ class Solution {
             list.add(ele);
         }
         for(int i=1;i<=nums.length;i++){
-            if(list.contains(i)){
-                continue;
-            }
-            else{
+            if(!list.contains(i)){
                 ans.add(i);
             }
         }
