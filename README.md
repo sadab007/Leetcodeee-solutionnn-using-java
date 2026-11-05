@@ -1,4 +1,3 @@
-# Leetcodeee-solutionnn-using-java
 # LeetCode Solutions Using Java
 
 Welcome to my LeetCode Solutions repository!
